@@ -8,7 +8,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		Service ser = new Service();
-		// 1.输出座位
+		// 1.输出座位*******************************
 		ser.print();
 		// 初始化数据
 		Service.movies = (List<Movie>) ser.getData("Movies.txt");
