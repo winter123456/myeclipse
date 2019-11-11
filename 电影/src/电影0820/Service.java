@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Service {
+//	*******************************************************************
 	// 有两个集合，分别放的是：电影库，售票信息
 	public static List<Movie> movies = null;
 	public static List<Ticket> tickets = null;
